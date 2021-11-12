@@ -89,6 +89,7 @@ section{
 
 .button:hover{
   background-color: rgb(10, 116, 139);
+border-radius: 15px;
 }
 .btn-0{
   grid-column: 1/3;
